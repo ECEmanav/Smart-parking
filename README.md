@@ -3,13 +3,13 @@ This repository contains the code and documentation for a Smart Parking System i
 
 ## Table of Contents:
 Introduction
-Features
-Components
-Installation
-Usage
-Future Improvements
-Contributing
-License
+1Features
+2Components
+3Installation
+4Usage
+5Future Improvements
+6Contributing
+7License
 
 ## Introduction
 

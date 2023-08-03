@@ -1,7 +1,7 @@
 # Smart-parking-system
 This repository contains the code and documentation for a Smart Parking System implemented using Arduino IDE. The system is designed to efficiently manage and monitor parking spaces, providing real-time information about the availability of parking spots.
 
-Table of Contents
+## Table of Contents
 
 Introduction
 Features
@@ -11,7 +11,8 @@ Usage
 Future Improvements
 Contributing
 License
-Introduction
+
+# Introduction
 
 The Smart Parking System is a solution to address the challenges of urban parking management. It utilizes Arduino boards and sensors to keep track of parking space occupancy and provides users with up-to-date parking spot availability information. The system aims to reduce congestion and enhance user convenience.
 
